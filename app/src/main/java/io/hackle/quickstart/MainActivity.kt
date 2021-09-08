@@ -1,4 +1,4 @@
-package io.hackle.android.quickstart
+package io.hackle.quickstart
 
 import android.app.Activity
 import android.graphics.Color

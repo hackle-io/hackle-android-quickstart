@@ -1,4 +1,4 @@
-package io.hackle.android.quickstart
+package io.hackle.quickstart
 
 import android.content.Intent
 import android.os.Bundle
